@@ -1,0 +1,1 @@
+Salut ! tu viens de récupérer le contenu du fichier Salut.txt :D 
